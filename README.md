@@ -9,6 +9,17 @@ Analyse PWM signal generation by developing a program to switch an LED ON and OF
 | 1 | Microcontroller Development Board | **NXP S32K144 Development Board** |
 | 2 | IDE | **S32 Design Studio** |
 | 3 | Programming Language | **Embedded C** |
+| 4 | SDK | **S32K144 SDK** |# PWM
+Analyse PWM signal generation by developing a program to switch an LED ON and OFF at one-second intervals using PWM. Examine the configured PWM frequency and duty cycle. 
+---
+
+## Apparatus Required
+
+| S. No. | Apparatus / Software | Specification |
+|:---:|---|---|
+| 1 | Microcontroller Development Board | **NXP S32K144 Development Board** |
+| 2 | IDE | **S32 Design Studio** |
+| 3 | Programming Language | **Embedded C** |
 | 4 | SDK | **S32K144 SDK** |
 | 5 | LED | On-board LED / External LED |
 | 6 | Programmer / Debugger | On-board Debugger / OpenSDA |
